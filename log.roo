@@ -1,0 +1,6 @@
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log opened at 2013-05-14 18:47:27
+project --topLevelPackage com.synion.pruebaroo --projectName PruebaRoo --java 6 --packaging WAR
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log closed at 2013-05-14 18:47:42
+// Spring Roo 1.2.3.RELEASE [rev 7fd62b6] log opened at 2013-05-14 18:54:58
+hint
+jpa setup --provider HIBERNATE --database HYPERSONIC_IN_MEMORY 

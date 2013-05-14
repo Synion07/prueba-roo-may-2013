@@ -1,0 +1,10 @@
+*.class
+*.jar
+*.war
+
+# clases compiladas
+target/
+
+.classpath
+.project
+.settings/
